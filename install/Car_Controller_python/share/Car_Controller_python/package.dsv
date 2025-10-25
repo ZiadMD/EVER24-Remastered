@@ -1,0 +1,6 @@
+source;share/Car_Controller_python/hook/pythonpath.ps1
+source;share/Car_Controller_python/hook/pythonpath.dsv
+source;share/Car_Controller_python/hook/pythonpath.sh
+source;../../build/Car_Controller_python/share/Car_Controller_python/hook/pythonpath_develop.ps1
+source;../../build/Car_Controller_python/share/Car_Controller_python/hook/pythonpath_develop.dsv
+source;../../build/Car_Controller_python/share/Car_Controller_python/hook/pythonpath_develop.sh

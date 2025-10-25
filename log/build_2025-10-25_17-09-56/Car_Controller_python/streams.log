@@ -1,0 +1,25 @@
+[0.525s] Invoking command in '/home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python': PYTHONPATH=/home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/build --no-deps symlink_data
+[0.762s] running develop
+[0.927s] running egg_info
+[0.927s] creating Car_Controller_python.egg-info
+[0.927s] writing Car_Controller_python.egg-info/PKG-INFO
+[0.927s] writing dependency_links to Car_Controller_python.egg-info/dependency_links.txt
+[0.927s] writing entry points to Car_Controller_python.egg-info/entry_points.txt
+[0.927s] writing requirements to Car_Controller_python.egg-info/requires.txt
+[0.928s] writing top-level names to Car_Controller_python.egg-info/top_level.txt
+[0.928s] writing manifest file 'Car_Controller_python.egg-info/SOURCES.txt'
+[0.929s] reading manifest file 'Car_Controller_python.egg-info/SOURCES.txt'
+[0.929s] writing manifest file 'Car_Controller_python.egg-info/SOURCES.txt'
+[0.930s] running build_ext
+[0.930s] Creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/lib/python3.10/site-packages/Car-Controller-python.egg-link (link to .)
+[0.936s] 
+[0.937s] Installed /home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python
+[0.937s] running symlink_data
+[0.937s] creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share
+[0.937s] creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/ament_index
+[0.937s] creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/ament_index/resource_index
+[0.937s] creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/ament_index/resource_index/packages
+[0.937s] symbolically linking /home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/resource/Car_Controller_python -> /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/ament_index/resource_index/packages
+[0.937s] creating /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/Car_Controller_python
+[0.937s] symbolically linking /home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/package.xml -> /home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/share/Car_Controller_python
+[0.955s] Invoked command in '/home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python' returned '0': PYTHONPATH=/home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ziadmoh/Workspaces/EVER24-Remastered/install/Car_Controller_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ziadmoh/Workspaces/EVER24-Remastered/build/Car_Controller_python/build --no-deps symlink_data
